@@ -19,12 +19,12 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "IP Trie Feeds"
+abbrev: "IP Trie Feeds"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: independent  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Erik Kline
+    organization: Aalyria Technologies, Inc.
+    email: ek.ietf@gmail.com
 
 normative:
 
@@ -65,6 +65,27 @@ TODO Abstract
 
 TODO Introduction
 
+<!--
+
+* mention:
+  * geofeed finder
+  * geofeeds study
+* Since 8805 several requests have been received over the years:
+  * more extensible format than CSV [cite RFC]
+  * richer expression of geographic regions
+  * more canonical sources of geograhic names (geonames.org?)
+  * some kinds of guarantees for anonymity
+  * locations not on Earth
+  * support for anycast
+  * additional attributes like "end site prefixes"
+  * remove all mention of ill-fated, ill-conceived Postal Code
+* restress "best effort"
+* inline attestations?
+* primary attribute in the IP Trie is "geo"
+* multiple feeds representing different views of the same data
+  * feed for public consumption might be very different from a feed served to Emergency Services consumers (or org-internal consumers)
+
+-->
 
 # Conventions and Definitions
 
