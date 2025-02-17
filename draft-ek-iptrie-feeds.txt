@@ -2,13 +2,13 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+WG Working Group                                                E. Kline
+Internet-Draft                                Aalyria Technologies, Inc.
 Intended status: Informational                          17 February 2025
 Expires: 21 August 2025
 
 
-                           TODO - Your title
+                             IP Trie Feeds
                   draft-todo-yourname-protocol-latest
 
 Abstract
@@ -57,10 +57,7 @@ Copyright Notice
    Provisions Relating to IETF Documents (https://trustee.ietf.org/
    license-info) in effect on the date of publication of this document.
    Please review these documents carefully, as they describe your rights
-   and restrictions with respect to this document.  Code Components
-   extracted from this document must include Revised BSD License text as
-   described in Section 4.e of the Trust Legal Provisions and are
-   provided without warranty as described in the Revised BSD License.
+   and restrictions with respect to this document.
 
 Table of Contents
 
@@ -109,6 +106,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: your.email@example.com
+   Erik Kline
+   Aalyria Technologies, Inc.
+   Email: ek.ietf@gmail.com
